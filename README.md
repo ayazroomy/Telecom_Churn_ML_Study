@@ -25,3 +25,4 @@ Therefore, build another model with the main objective of identifying important 
 
 
 ### Final Result : 
+https://github.com/ayazroomy/Telecom_Churn_ML_Study/blob/master/Telecom_Churn_Solution_NoteBook.ipynb
