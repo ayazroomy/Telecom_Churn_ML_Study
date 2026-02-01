@@ -22,3 +22,6 @@ The above model will only be able to achieve one of the two goals - to predict c
  
 
 Therefore, build another model with the main objective of identifying important predictor attributes which help the business understand indicators of churn. A good choice to identify important variables is a logistic regression model or a model from the tree family. 
+
+
+### Final Result : 
